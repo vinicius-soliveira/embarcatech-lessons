@@ -20,10 +20,10 @@ pico_sdk_init()
 
 # Add subdirectories
 add_subdirectory(atividade1)
-#add_subdirectory(atividade2)
-#add_subdirectory(atividade3)
-#add_subdirectory(atividade4)
-#add_subdirectory(atividade5)
+add_subdirectory(atividade2)
+add_subdirectory(atividade3)
+add_subdirectory(atividade4)
+add_subdirectory(atividade5)
 add_subdirectory(atividade6)
 
 add_compile_options(-Wall
