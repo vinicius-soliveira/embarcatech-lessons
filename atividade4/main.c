@@ -6,7 +6,6 @@
 
 #include <stdio.h>
 #include "pico/stdlib.h"
-#include "pico/cyw43_arch.h"
 #include "hardware/i2c.h"
 #include "ds1307.h"
 
